@@ -1,4 +1,4 @@
-# Schrödinger–Newton Equation Simulation for BEC-CDM Halos
+# Numerical Solution of the Schrödinger–Newton Equation for BEC-CDM Halos
 
 This repository contains a Python-based numerical simulation of the Schrödinger–Newton equation, modeling the dispersion of wave functions in a self-gravitating Bose–Einstein Condensate (BEC) dark matter halo. The simulation applies the Thomas algorithm to solve the resulting tridiagonal system efficiently.
 
@@ -10,7 +10,7 @@ This repository contains a Python-based numerical simulation of the Schrödinger
 
 ## 📁 Repository Contents
 
-- `numerical-solution-SN-BEC-halo-thomas-algorithm.ipynb`: Jupyter Notebook with full implementation and plots.
+- `numerical-solution-SN-BEC-halo-thomas-algorithm.ipynb`: Jupyter Notebook with implementation.
 - `README.md`: This file.
 
 ## 🔧 Requirements
