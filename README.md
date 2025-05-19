@@ -6,7 +6,7 @@ This repository contains a Python-based numerical simulation of the Schrödinger
 
 - **Objective**: Investigate the dynamics of a BEC-CDM halo by solving the Schrödinger–Newton equation numerically.
 - **Methodology**: Finite difference discretization combined with the Thomas algorithm to solve the tridiagonal matrix system.
-- **Outcome**: Due to computational limitations, the simulation does not yield observable dispersion. Instead, it explores numerical behavior under coarse discretization and discusses why the key observables \( r_{99} \) remains unchanged.
+- **Outcome**: Due to computational limitations, the simulation does not yield observable dispersion. Instead, it explores numerical behavior under coarse discretization and discusses why the key observables r_99 remains unchanged.
 
 ## 📁 Repository Contents
 
