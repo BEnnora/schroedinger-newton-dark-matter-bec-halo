@@ -20,3 +20,6 @@ This repository contains a Python-based numerical simulation of the Schrödinger
 - NumPy
 - Jupyter Notebook
 
+> 🧾 This simulation is based in large part on the theoretical treatment of the Schrödinger–Newton equation presented in  
+> *Peter Jay Salzman, “Investigation of the Time Dependent Schrödinger–Newton Equation” (2005), University of California, Davis.*
+> [PDF available here]([https://www.physics.ucdavis.edu/people/pjschroedinger.pdf](http://www.dirac.org/physics/dissertation/dissertation.pdf))
